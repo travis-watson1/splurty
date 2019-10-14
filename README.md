@@ -1,9 +1,3 @@
-Clearly states the problem the app is trying to solve. 
-Provides a high-level overview of how the app is organized. 
-Provides start-to-finish instructions on how to run the app. 
-Link to deployed version of the app. 
-Screenshots of the app.
-
 # Splurty
 
 Splurty is a simple quote generator created using Ruby on Rails that displays motivational quotes.
