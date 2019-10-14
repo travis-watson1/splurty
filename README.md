@@ -12,13 +12,17 @@ Splurty is a simple quote generator created using Ruby on Rails that displays mo
 
 First, run bundle install:
 
-```bundle install
+```bash
+bundle install
 ```
+
 Second, create a database:
 
-```rake db:create
+```bash
+rake db:create
 ```
-```rake db:migrate
+```bash
+rake db:migrate
 ```
 
 ## Deployed App
@@ -28,7 +32,7 @@ https://splurty-travis-watson.herokuapp.com
 ## Screenshots
 
 <div align="center">
-    <img src="https://postimg.cc/JDYy71V4" width="400px"</img>
-    <img src="https://postimg.cc/nCDsZbdp" width="400px"</img> 
-    <img src="https://postimg.cc/9w4DrvCP" width="400px"</img> 
+    <img src="https://i.postimg.cc/kGqWc4T8/splurty1.png" width="400px"</img>
+    <img src="https://i.postimg.cc/Qx6cQj19/splurty2.png" width="400px"</img> 
+    <img src="https://i.postimg.cc/3N1mbTqq/splurty3.png" width="400px"</img> 
 </div>
